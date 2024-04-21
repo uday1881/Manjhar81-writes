@@ -1,0 +1,320 @@
+body{
+    margin: 0;
+    font-family: "Merriweather", serif;
+    background-color: #f9fafa;
+}
+h1{
+    color: #66BFBF;
+    line-height: 2;
+    margin-top: 0;
+    padding: 150px;
+    bottom: 50px;
+    font-size: 70px;
+    font-family: "Sacramento", cursive
+
+    
+    
+}
+h2{
+    color: #66BFBF;
+font-family: "Montserrat", sans-serif;
+}
+
+h3{
+    color: #11999E;
+font-family: "Mntserrat", sans-serif;
+}
+.p{
+    margin-top: 50px;
+    position: absolute;
+    top:300px;
+    bottom: 100px;
+}
+hr{
+    border: dotted #c7f8f8;
+    border-bottom: none;
+    width:
+
+
+}
+
+
+
+.topcontainer{
+    background-color: #d4f89f;
+    text-align: center;
+    border-width: 0px,20px,30px,40px;
+    position:relative;
+    line-height: 2;
+}
+
+.bottomcloud{
+    position: absolute;
+    top: 0px;
+    right: 100px;
+    width: 250px;
+    height: 250px;
+    line-height: 2;
+}
+.uppercloud{
+    position: absolute;
+    left: 100px;
+    right: 200px;
+    bottom:0px;
+    width: 250px;
+    height: 250px;
+}
+.mountain{
+    size: 100px;
+}
+.middlecon{
+    margin-top: 100px;
+    text-align: center;
+    line-height: 2;
+}
+.water{
+    height: 250px;
+    border-radius: 2px;
+    align-items: center;
+    width: 200px;
+}
+.cloud3{
+    position: absolute;
+    left: 1000px;
+    right: 100px;
+    top: 700px;
+    width: 250px;
+    height: 250px;
+}
+.cloud4{ position: absolute;
+    left: 100px;
+    right: 1000px;
+    top: 900px;
+    width: 250px;
+    height: 250px;
+
+}
+.bottomcon{
+    margin-top: 100px;
+    text-align: center;
+    line-height: 2;
+}
+.poem4{
+    margin-top: 100px;
+    text-align: center;
+    line-height: 2;
+}
+
+.juda{
+    border-radius: 2px;
+    width: 200px;
+    height: 200px;
+    line-height: 2;
+}
+
+.cloud5{
+    position: absolute;
+    left: 1000px;
+    right: 100px;
+    top: 1200px;
+    width: 250px;
+    height: 250px;
+}
+.cloud6{
+    position: absolute;
+    left: 50px;
+    right: 1000px;
+    top: 1700px;
+    width: 250px;
+    height: 250px;
+}
+.cloud7{
+    position: absolute;
+    left: 1000px;
+    right: 100px;
+    top: 2100px;
+    width: 250px;
+    height: 250px;
+}
+.cloud8{
+    position: absolute;
+    left: 50px;
+    right: 1000px;
+    top: 2500px;
+    width: 250px;
+    height: 250px;
+}
+.cloud9{
+    position: absolute;
+    left: 1000px;
+    right: 100px;
+    top: 2800px;
+    width: 250px;
+    height: 250px;
+}
+.cloud10{
+    position: absolute;
+    left: 50px;
+    right: 1000px;
+    top: 3000px;
+    width: 250px;
+    height: 250px;
+}
+.poem5{
+    margin-top: 100px;
+    text-align: center;
+    line-height: 2;
+}
+.sindur{
+    border-radius: 2px;
+    width: 200px;
+    height: 200px;
+    line-height: 2;
+}
+.cloud11{
+    position: absolute;
+    left: 1000px;
+    right: 100px;
+    top: 3600px;
+    width: 250px;
+    height: 250px;
+}
+.cloud12{
+    position: absolute;
+    left: 100px;
+    right: 1000px;
+    top: 3600px;
+    width: 250px;
+    height: 250px;
+}
+.hawa{
+    margin-top: 100px;
+    text-align: center;
+    line-height: 2;
+}
+.me{
+    border-radius: 2px;
+    width: 200px;
+    height: 200px;
+}
+.cloud12{
+    position: absolute;
+    left: 100px;
+    right: 1000px;
+    top: 3800px;
+    width: 250px;
+    height: 250px;
+}
+.cloud13{
+    position: absolute;
+    left: 1000px;
+    right: 100px;
+    top: 4300px;
+    width: 250px;
+    height: 250px;
+}
+.cloud14{
+    position: absolute;
+    left: 100px;
+    right: 1000px;
+    top: 4600px;
+    width: 250px;
+    height: 250px;
+}
+.cloud15{
+    position: absolute;
+    left: 1000px;
+    right: 100px;
+    top: 5000px;
+    width: 250px;
+    height: 250px;
+}
+.cloud16{
+    position: absolute;
+    left: 100px;
+    right: 1000px;
+    top: 5300px;
+    width: 250px;
+    height: 250px;
+}
+.w{
+    color:rgb(242, 107, 247);
+    font-size: 60px;
+    font-weight: normal;
+}
+.poem6{
+    margin-top: 100px;
+    text-align: center;
+    line-height: 2;
+}
+.cup{
+    width: 300px;
+    height: 300px;
+}
+.contactme{
+    text-align: center;
+    margin-top: 50px;
+
+}
+.btn {
+    margin-top: 50px;
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #1199e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #1199e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #1199e);
+    background-image: -o-linear-gradient(top, #11cdd4, #1199e);
+    background-image: linear-gradient(to bottom, #11cdd4, #1199e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Mntserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  
+ .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+
+  }
+  .foot{
+    margin-top: 50px;
+    padding: auto;
+    height: 100px;
+    text-align: center;
+    background-color:  #d4f89f;
+  }
+  .btn2 {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #1199e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #1199e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #1199e);
+    background-image: -o-linear-gradient(top, #11cdd4, #1199e);
+    background-image: linear-gradient(to bottom, #11cdd4, #1199e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 10px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
